@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+**Elixir package, takes a string and creates an identicon**
 
 ## Installation
 
